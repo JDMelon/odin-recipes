@@ -1,0 +1,1 @@
+I gonna do a Web that has the basics about HTML. I will put images, text, bold letters, cursive letters, titles and I think that all I gonna do for now.
